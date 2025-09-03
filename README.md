@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Diogo Silvestre
 
-<!--
-**diogosms-86/diogosms-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Administração e tenho experiência com atendimentos, processos administrativos e operacionais. Gosto de aprender e sou pró-ativo, sempre buscando novas soluções para facilitar o dia a dia.
 
-Here are some ideas to get you started:
+## 🚀 Objetivos no GitHub
+- Aprender e compartilhar conhecimentos em automação de processos
+- Desenvolver projetos próprios e colaborar com a comunidade
+- Aprender novas tecnologias (Excel, Python, Git e outras)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiência
+- Atendimento ao cliente
+- Processos administrativos e operacionais
+- Trabalho em equipe e comunicação
+
+## 🌱 Estou aprendendo
+- Programação voltada para automação de tarefas administrativas
+- Ferramentas digitais para melhoria de processos
+
+## 📫 Contato
+- Email: diogosms@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+
+---
+
+## ⭐ Projetos em breve
+- Exemplos de automação de planilhas
+- Scripts para facilitar rotinas administrativas
+- Estudos e desafios de programação para iniciantes
+
+---
+
+Sinta-se à vontade para entrar em contato ou sugerir colaborações!
+
+
+
+
+
+"Adiciona README personalizado ao perfil"
